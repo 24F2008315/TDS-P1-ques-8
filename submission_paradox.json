@@ -1,0 +1,6 @@
+{
+  "prompt": "Programmatically generated using Python PIL 12.1.1. Network graph on near-black background with radial dim gradient. 50 nodes in three degree tiers: 9 large hub nodes (amber-white, radius 38-43px, 14-18 edges), 12 medium nodes (amber, radius 20-28px, 6-8 edges), 29 leaf nodes (steel-blue-grey, radius 5-9px, exactly 2 edges each). Edges colored by average degree of endpoints: cool blue for low-degree connections, warm amber for hub connections. Layered glow rendering per node (3 glow rings + core + highlight). One leaf node highlighted with concentric white halo rings, its 2 edges drawn in bright white to emphasize its connections lead only to large gold hubs. Structural constraint enforced in code: leaf nodes connect exclusively to hub-tier nodes, never to each other. No text, numbers, or chart elements anywhere in the image.",
+  "model": "Python PIL 12.1.1 (programmatic network graph, no generative AI image model)",
+  "paradox": "The Friendship Paradox",
+  "visual_logic": "Every small cold node connects only to large warm hubs; every hub connects to other hubs. No matter which small node you examine, all its neighbors are more connected. The structural impossibility is the topology itself — inescapable at every scale."
+}
